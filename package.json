@@ -1,0 +1,24 @@
+{
+  "name": "bot-template-djsv14",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/bot.js",
+  "scripts": {
+    "test": "node ."
+  },
+  "keywords": [],
+  "author": "Gali Studios",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/rest": "^1.7.1",
+    "apollo-server": "^3.13.0",
+    "chalk": "^4.1.2",
+    "discord-api-types": "^0.37.46",
+    "discord.js": "^14.11.0",
+    "dotenv": "^16.3.1",
+    "graphql": "^16.9.0",
+    "graphql-request": "^7.1.0",
+    "graphql-yoga": "^5.7.0",
+    "isomorphic-fetch": "^3.0.0"
+  }
+}
