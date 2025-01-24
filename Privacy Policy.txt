@@ -1,6 +1,6 @@
 Privacy Policy for Forge Bot
 
-This Privacy Policy governs the collection, use, and sharing of personal information by [Bot Name], a Discord bot developed by [Developer Name]. By using [Bot Name], you agree to the terms of this Privacy Policy.
+This Privacy Policy governs the collection, use, and sharing of personal information by Forge Bot, a Discord bot developed by Gryphon Miller. By using Forge Bot, you agree to the terms of this Privacy Policy.
 
 Information We Collect
 
